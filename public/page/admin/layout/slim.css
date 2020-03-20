@@ -1,0 +1,113 @@
+.dataTables_length {
+    width: 50%;
+    float: left;
+    text-align: left;
+}
+
+div.dataTables_wrapper div.dataTables_filter {
+    width: 100%;
+    text-align: right;
+    float: left;
+}
+
+.card {
+    padding: 15px 15px;
+    background-color: white;
+}
+
+.dataTables_filter label {
+    width: 100%;
+}
+
+div.dataTables_wrapper div.dataTables_filter input {
+    height: 40px;
+    width: 100%;
+    padding: 0px 10px;
+    border: 1px #e9ecef solid;
+    margin: 0px;
+}
+
+.dataTables_length select {
+    width: 100px;
+}
+
+.group-body-header {
+    display: block;
+    padding: 15px 15px 0px 15px;
+    margin-bottom: 4px;
+}
+
+.page-item.disabled .page-link {
+    border: none;
+}
+
+.page-link:not(:disabled):not(.disabled) {
+    border: none;
+}
+
+.group-body-header .input-group>.input-group-append>.btn {
+    border: 1px #ced4da solid;
+}
+
+.group-body-header .btn {
+    height: 38px;
+}
+
+.group-body-header .form-control {
+    height: 38px;
+}
+
+.dataTables_length,
+.dataTables_filter {
+    display: none;
+}
+
+.page-wrapper>.container-fluid {
+    padding: 20px 5px;
+}
+
+.page-breadcrumb {
+    padding: 20px 8px 0 8px;
+}
+
+.l-wrap {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 30px 0;
+}
+
+
+/* Parsley CSS */
+
+.parsley-success {
+    border: 1px solid #468847;
+}
+
+.parsley-error {
+    border: 1px solid #ec4d4d;
+}
+
+.parsley-errors-list {
+    margin: 2px 0 3px;
+    padding: 0;
+    list-style-type: none;
+    font-size: 0.9em;
+    line-height: 0.9em;
+    opacity: 0;
+    transition: all .3s ease-in;
+    -o-transition: all .3s ease-in;
+    -moz-transition: all .3s ease-in;
+    -webkit-transition: all .3s ease-in;
+}
+
+.parsley-errors-list.filled {
+    opacity: 1;
+}
+
+.parsley-required {
+    color: #ec4d4d;
+}
+
+body {
+    padding-right: 0 !important
+}

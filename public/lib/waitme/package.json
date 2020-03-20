@@ -1,0 +1,52 @@
+{
+  "_args": [
+    [
+      "waitme@1.19.0",
+      "C:\\xampp\\htdocs\\demoProject"
+    ]
+  ],
+  "_from": "waitme@1.19.0",
+  "_id": "waitme@1.19.0",
+  "_inBundle": false,
+  "_integrity": "sha512-Y6PEtAD8Ycqfhl2SE6Njz/P9C2/1IkiFkevqprob86L0OEfGJ8sfgKARnBQ/xUC1eaJEaL+bmH7N7G6Kn0XgVw==",
+  "_location": "/waitme",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "version",
+    "registry": true,
+    "raw": "waitme@1.19.0",
+    "name": "waitme",
+    "escapedName": "waitme",
+    "rawSpec": "1.19.0",
+    "saveSpec": null,
+    "fetchSpec": "1.19.0"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/waitme/-/waitme-1.19.0.tgz",
+  "_spec": "1.19.0",
+  "_where": "C:\\xampp\\htdocs\\demoProject",
+  "author": {
+    "name": "vadimsva"
+  },
+  "bugs": {
+    "url": "https://github.com/vadimsva/waitMe/issues"
+  },
+  "dependencies": {
+    "jquery": "^1.0.0"
+  },
+  "description": "waitMe\r ======",
+  "homepage": "https://github.com/vadimsva/waitMe",
+  "keywords": [
+    "waitMe",
+    "spinner"
+  ],
+  "license": "MIT",
+  "name": "waitme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vadimsva/waitMe.git"
+  },
+  "version": "1.19.0"
+}

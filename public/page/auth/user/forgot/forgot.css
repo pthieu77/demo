@@ -1,0 +1,22 @@
+.btn-login {
+    text-align: right;
+    margin-top: 15px;
+}
+
+.group-account {
+    color: white;
+}
+
+.parsley-errors-list {
+    width: 100%;
+    list-style: none;
+    color: red;
+    padding: 5px 10px;
+    margin: 0px;
+    text-align: left;
+}
+
+input.parsley-error {
+    border-bottom: 1px solid red;
+    border-left: 1px solid red;
+}

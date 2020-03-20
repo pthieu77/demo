@@ -1,0 +1,13 @@
+.columns .image .div-content img{
+    visibility: hidden;
+    opacity: 0;
+    margin-left: -100px;
+    margin-top: -100px;
+    transition: visibility 0s, opacity 1.5s linear, margin-left .5s linear, margin-top .5s linear;
+}
+.columns .image .div-content.div-show img{
+    visibility: visible;
+    margin-left: 0px;
+    margin-top: 0px;
+    opacity: 1;
+}

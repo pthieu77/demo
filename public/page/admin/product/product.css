@@ -1,0 +1,21 @@
+.fileuploader-items .fileuploader-item .fileuploader-action.fileuploader-action-remove i:after {
+    content: "✖";
+}
+
+.fileuploader-items .fileuploader-item .fileuploader-action.fileuploader-action-remove i {
+    padding-top: 2px;
+    padding-left: 1px;
+}
+
+.fileuploader-items .fileuploader-item .fileuploader-action.fileuploader-action-remove {
+    background: none;
+    color: #fff;
+    font-family: 'Helvetica', 'Arial', sans-serif;
+    font-size: 1em;
+    font-weight: bold;
+    text-align: center;
+    width: 35px;
+    height: 25px;
+    border: none;
+    outline: none;
+}
